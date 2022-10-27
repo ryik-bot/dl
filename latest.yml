@@ -1,0 +1,8 @@
+version: 1.8.1
+files:
+  - url: ryik-setup.exe
+    sha512: d+MBTacJ62vjzHbeDEtGicp+2/ZSySbAymPOJENpB2H+jHOzChHB26YuwhUosLXIIDuOkmryqSfUVk0AdQVf/g==
+    size: 68992901
+path: ryik-setup.exe
+sha512: d+MBTacJ62vjzHbeDEtGicp+2/ZSySbAymPOJENpB2H+jHOzChHB26YuwhUosLXIIDuOkmryqSfUVk0AdQVf/g==
+releaseDate: '2022-10-27T07:26:19.526Z'
