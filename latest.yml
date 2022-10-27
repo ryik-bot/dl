@@ -1,8 +1,8 @@
-version: 1.8.1
+version: 1.8.2
 files:
   - url: ryik-setup.exe
-    sha512: 3u5z/gYC0OFoQCfs87XHuhhSRjmmgejRmaY5cfrpw4eoP0GRNYwXUBTWqSQYIjTG5An/dRgRxXqBC+Mtw6xTrQ==
-    size: 68992904
+    sha512: ruxhKpjFFtx7M4WaZmVHXgw+0HLpTy0Ce9lc/aBPen86/en9AmiJzl+0Qd70OHrzOYQL9LGxsbKRBkUDXOQBbA==
+    size: 68992932
 path: ryik-setup.exe
-sha512: 3u5z/gYC0OFoQCfs87XHuhhSRjmmgejRmaY5cfrpw4eoP0GRNYwXUBTWqSQYIjTG5An/dRgRxXqBC+Mtw6xTrQ==
-releaseDate: '2022-10-27T08:13:59.939Z'
+sha512: ruxhKpjFFtx7M4WaZmVHXgw+0HLpTy0Ce9lc/aBPen86/en9AmiJzl+0Qd70OHrzOYQL9LGxsbKRBkUDXOQBbA==
+releaseDate: '2022-10-27T08:18:20.200Z'
