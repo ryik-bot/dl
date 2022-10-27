@@ -1,0 +1,9 @@
+version: 1.8.1
+files:
+  - url: ryik-arm64.appimage
+    sha512: CRQWBBNaxzGm0e32zA4yzN21umX0n0i+t6RKDpTEY/M0xFqkDnZLSA7zlwV4gKuo8qu6rn9QTSnGF7a4awdRZA==
+    size: 94597086
+    blockMapSize: 101162
+path: ryik-arm64.appimage
+sha512: CRQWBBNaxzGm0e32zA4yzN21umX0n0i+t6RKDpTEY/M0xFqkDnZLSA7zlwV4gKuo8qu6rn9QTSnGF7a4awdRZA==
+releaseDate: '2022-10-27T07:57:38.875Z'

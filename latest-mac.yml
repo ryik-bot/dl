@@ -1,0 +1,11 @@
+version: 1.8.1
+files:
+  - url: ryik-x64.zip
+    sha512: cAfyL16WxyvV6IWuvTLYbLOR1wheG20RaI3weURQ356rnbYhKn/Yj89i7WxtaLNoRGYJt279lCVun6MbYv3N5w==
+    size: 85868884
+  - url: ryik-arm64.zip
+    sha512: ssjXryffnea2H3BdxfkXGSIuIR9fGimQN5jl4b/11S8p5U52BvlpCpZo+dyQyLBNeExAwdJVBB0709oFLdXNEA==
+    size: 82836666
+path: ryik-x64.zip
+sha512: cAfyL16WxyvV6IWuvTLYbLOR1wheG20RaI3weURQ356rnbYhKn/Yj89i7WxtaLNoRGYJt279lCVun6MbYv3N5w==
+releaseDate: '2022-10-27T08:07:26.604Z'
