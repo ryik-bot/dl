@@ -1,9 +1,9 @@
-version: 1.8.1
+version: 1.8.2
 files:
   - url: ryik-x86_64.appimage
-    sha512: jTVaZsuHAnJ3bc8IvwjLdS9lveE5T/cK7csz0w3G84A7M8e0KF074PvghL2EZINjmJmqhSTZN5gIi9YybD+8nw==
-    size: 93717917
-    blockMapSize: 99761
+    sha512: 919oCAJWDC/B3LNY+ZE+pjTFUbXFo7HWLSZXtz6yU/Vb8QJyNvhOSSVlfwHVpXMnPqRKOs16fPu801dgKzhOYg==
+    size: 93721616
+    blockMapSize: 99364
 path: ryik-x86_64.appimage
-sha512: jTVaZsuHAnJ3bc8IvwjLdS9lveE5T/cK7csz0w3G84A7M8e0KF074PvghL2EZINjmJmqhSTZN5gIi9YybD+8nw==
-releaseDate: '2022-10-27T07:57:38.875Z'
+sha512: 919oCAJWDC/B3LNY+ZE+pjTFUbXFo7HWLSZXtz6yU/Vb8QJyNvhOSSVlfwHVpXMnPqRKOs16fPu801dgKzhOYg==
+releaseDate: '2022-11-09T06:46:17.277Z'

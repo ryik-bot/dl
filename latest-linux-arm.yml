@@ -1,9 +1,9 @@
-version: 1.8.1
+version: 1.8.2
 files:
   - url: ryik-armv7l.appimage
-    sha512: fVY8Fv1pF6NNSX2cGZt56ta8kkgLuu/3rG1P/nOaQeZkUPC2tm8ufiFqOGRwJQ1+1jwWaB5V34mmu8XBG7Dt8w==
-    size: 82199349
-    blockMapSize: 86573
+    sha512: rxxd4KSFBL2zpuukXfYZvWy5hmXRCJx52bPTssKdTQET5bPWZzLx22YS7iyxcy1Lobl41fyBfO8okreA3BAANg==
+    size: 82199399
+    blockMapSize: 86623
 path: ryik-armv7l.appimage
-sha512: fVY8Fv1pF6NNSX2cGZt56ta8kkgLuu/3rG1P/nOaQeZkUPC2tm8ufiFqOGRwJQ1+1jwWaB5V34mmu8XBG7Dt8w==
-releaseDate: '2022-10-27T07:57:38.875Z'
+sha512: rxxd4KSFBL2zpuukXfYZvWy5hmXRCJx52bPTssKdTQET5bPWZzLx22YS7iyxcy1Lobl41fyBfO8okreA3BAANg==
+releaseDate: '2022-11-09T06:46:17.277Z'
